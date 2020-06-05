@@ -13,7 +13,7 @@ I may or may not update and improve it.
 
    Go to **Administration** > **Media types** > Select *Microsoft Teams*
    
-   Change values in the *teamsURL* field with the webhook URL created in the first step, and *zabbixURL* with your Zabbix URL including *http://*/*https://* and trailing */* (this one is required for buttons in notification to work)
+   Change values in the *teamsURL* field with the webhook URL created in the first step, and *zabbixURL* with your Zabbix URL (including `https://` and trailing `/`) - this one is required for buttons in notification to work)
    
 ## To-do
 - [ ] Complete installation instruction
